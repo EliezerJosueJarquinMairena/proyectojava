@@ -1,8 +1,8 @@
 public class HolaMundo{
 public static void main(String[] args) {
 String nombre = "Estudiante";
-int a = 3;
-int b = 8;
+int a = 10;
+int b = 4;
 int suma = a + b;
 int multiplicacion = a*b;
 int resta = a -b;
